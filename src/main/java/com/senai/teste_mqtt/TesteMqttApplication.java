@@ -10,4 +10,4 @@ public class TesteMqttApplication {
 		SpringApplication.run(TesteMqttApplication.class, args);
 	}
 }
-}
+
